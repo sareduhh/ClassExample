@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week2Day4Practice\Week2Day4Practice\bin\Debug\Week2Day4Practice.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week2Day4Practice\Week2Day4Practice\bin\Debug\Week2Day4Practice.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week2Day4Practice\Week2Day4Practice\bin\Debug\Week2Day4Practice.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week2Day4Practice\Week2Day4Practice\obj\Debug\Week2Day4Practice.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week2Day4Practice\Week2Day4Practice\obj\Debug\Week2Day4Practice.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week2Day4Practice\Week2Day4Practice\obj\Debug\Week2Day4Practice.pdb
